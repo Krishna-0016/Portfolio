@@ -1,0 +1,28 @@
+
+.Navbar{
+    font-weight: var(--subheading-weight);
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    min-height: 7vh;
+    justify-content: center;
+    align-items: center;
+}
+.NavDiv{
+    width: 1140px ;
+    display: flex;
+    flex-direction: row;
+}
+
+.NavbarLogo{
+    width: 40%;
+}
+
+.NavbarLinks{
+    width: 60%;
+}
+
+
+.logoImg{
+    background-color: var(--secondary-color);
+}
